@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RamyaPodavati
-- 👀 I’m interested in Data Analysis/Data Science/Data Engineer
+- 👀 I’m interested in Data Analysis/Data Science/Data Engineering
 - 🌱 I’m currently learning Advanced Python, Data Mining, AWS Cloud tools
 - 💞️ I’m looking to collaborate on AWS & Python
 - 📫 How to reach me - ramya.podavati.sai@gmail.com
